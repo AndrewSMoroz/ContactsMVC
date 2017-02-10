@@ -1,0 +1,31 @@
++ TODO: Finish implementing Positions/Details/1
++ TODO: Implement Contacts/Details/1
++ TODO: Implement the Cancel button on the Edit pages to go back to where you came from - could be the Index page or the Details page - partial view?
++ TODO: Move the ModelAdapter from the controllers to the business layer, since it can (and does) contain business logic
++ TODO: Create a LookupItemViewModel to use for the 3 lookup tables for the above
++ TODO: Test what happens for Company/Details/999 (for example)
++ TODO: Put list of events on Position Details page
++ TODO: Put most recent event on Position Index page
++ TODO: Implement editing companies
++ TODO: Implement editing positions
++ TODO: Implement editing contacts
++ TODO: Implement editing phone number - from contact details page
++ TODO: Implement setting primary phone number - from contact details page
++ TODO: Implement editing events - from Position Details page
++ TODO: Figure out how to use a regular expression for validating the postal code
++ TODO: Implement creating companies
++ TODO: Implement creating positions
++ TODO: Implement creating contacts
++ TODO: Implement creating phone number - from contact details page
++ TODO: Implement creating an event for a position - from Position Details page - put button in table
++ TODO: Implement maintaining the 3 lookup lists - create/update/delete - create a new menu item that drops down
++ TODO: Implement deleting companies
++ TODO: Implement deleting positions
++ TODO: Implement deleting contacts
++ TODO: Implement deleting phone number
++ TODO: Implement deleting an event
++ TODO: Implement authentication with Identity
++ TODO: Make sure a user only sees data that they created
+- TODO: Get the EF tools to produce an ERD
+- TODO: Put on GitHub
+- TODO: Put on Azure
